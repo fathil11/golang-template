@@ -1,2 +1,2 @@
 # Golang Wiki
-Hi Everyone 👋, this is my personal golang research for how to use some golang packages.
+Hi Everyone 👋, this is my personal golang research about how to use some golang packages.
